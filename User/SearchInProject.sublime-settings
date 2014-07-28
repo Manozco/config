@@ -1,0 +1,5 @@
+{
+    "search_in_project_engine": "ack",
+    "search_in_project_Ack_path_to_executable": "/home/manuel/bin/ack",
+    "search_in_project_Ack_common_options": "--ackrc=/home/manuel/.ackrc"
+}

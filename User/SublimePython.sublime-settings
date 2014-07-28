@@ -1,0 +1,4 @@
+{
+    "pep8_max_line_length": 140,
+    "pep8_ignore": ["E125"],
+}
